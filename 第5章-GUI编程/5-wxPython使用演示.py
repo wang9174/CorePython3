@@ -1,0 +1,51 @@
+#使用wxPython和wxwidgets构建GUI程序
+import wx
+
+
+# 实例化一个Frame类
+class MyFrame(wx.Frame):
+    def __init__(self, parent=None, id=1, title=""):
+        wx.Frame.__init__(self, parent, id, title, size=(250, 180))
+
+        top = wx.Panel(self)  #创建面板
+        sizer = wx.BoxSizer(wx.VERTICAL)  #垂直布局
+        font = wx.Font(9, wx.SWISS, wx.NORMAL, wx.BOLD)  #设置字体格式
+
+        lb = wx.StaticText(top, -1, "Animas(in pairs; min: pair, max: dozen)")
+        sizer.Add(lb)
+
+        #手动将label添加进控件（这些控件本身不含有标签）
+        c1 = wx.StaticText(top, -1, "Number:")
+        c1.SetFont(font)
+        ct = wx.SpinCtrl(top, -1, "2", min=2, max=12)
+        sizer.Add(c1)
+        sizer.Add(ct)
+
+        c2 = wx.StaticText(top, -1, "Type:")
+        c2.SetFont(font)
+        cb = wx.ComboBox(top, -1, "", choices=("dog", "cat", "hamster", "python"))
+        sizer.Add(c2)
+        sizer.Add(cb)
+
+        qb = wx.Button(top, -1, "QUIT")
+        qb.SetBackgroundColour("red")
+        qb.SetForegroundColour("white")
+        self.Bind(wx.EVT_BUTTON, lambda e: self.Close(True), qb)
+        sizer.Add(qb)
+
+        top.SetSizer(sizer)
+        self.Layout()
+
+class MyApp(wx.App):
+    def OnInit(self):
+        frame = MyFrame(title="wxWidgets")
+        frame.Show(True)
+        self.SetTopWindow(frame)
+        return True
+
+def main():
+    app = MyApp()
+    app.MainLoop()
+
+if __name__ == '__main__':
+    main()
