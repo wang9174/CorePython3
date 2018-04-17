@@ -1,0 +1,896 @@
+abnormal	    [?b′n?:m?]	a.不正常的；变态的		
+abolish	    [?′b?li?]	vt.废除，取消			
+abundance	[?′bΛnd?ns]	n.丰富，充裕			
+accessory	    [?k′ses?ri]	n.同谋	a.附属的		
+accommodate	[?′k?m?deit]	vt.容纳；供应，供给	
+accord	    [?′k?:d]	vt.一致(~with)；给予			
+acknowledge	[?k′n?lid?]	vt.承认；告知收到	
+acquaint	    [?′kweint]	vt.使认识，使了解		
+acquisition	[`?kwi′zi??n]	n.获得,添加的物品	
+activate	    [`?ktiveit]	vt.刺激,使活动			
+acute	    [?′kju:t]	a.敏锐的			
+administer	[?d′minist?]	vt.执行,管理,治理,		
+adverse	    [`?dv?:s]	a.不利的,敌对的,相反的,逆的	
+advertise	    [`?dv?taiz]	vt.通知	vi.登广告	
+advocate   	[`?dv?kit]	n.辩护者	vt.拥护		
+affiliate	    [?′filieit]	vt.附属,接纳	vi.有关		
+affirm	    [?′f?:m]	vt.断言，批准；证实	
+aggravate   	[`?gr?veit]	vt.使恶化,使更加重	
+agreeable  	[?′gri?bl]	a.惬意的；同意的			
+alert	        [?′l?:t]	a.警惕的；活跃的				
+alliance	    [?′lai?ns]	n.联盟,联合			
+allocate	    [`?l?keit]	vt.分派,分配			
+allowance	[?′lau?ns]	n津贴，补助费				
+alongside   	[?′l??′said]	prep.在…旁边			
+alternate	    [?:l′t?:nit]	vt.使交替	a.交替的		
+ambiguous	[?m′bigju?s]	a.模棱两可的；分歧的		
+ambitious   	[?m′bi??s]	a.有雄心的；热望的		
+ample	    [`?mpl]	a.足够的；宽敞的			
+amplify	    [`?mplifai]	vt.放大，增强；扩大		
+analogy	    [?′n?l?d?i]	n.相似，类似；比拟		
+analytic	    [?n?′litik]	a.分析的,解析的			
+analytical	    [?n?′litikl]	a.分析的,解析的			
+angel	    [`eind??l]	n.天使，神差，安琪儿			
+anniversary   [,?ni′v?:s?ri]	n.周年纪念日			
+anonymous   [?′n?nim?s]	a.匿名的			
+antarctic	    [?nt′a:ktik]	a.南极的	n.南极区		
+antique	    [?n′ti:k]	a.古代的	n.古物	
+appreciable	[?′pri:??bl]	a.可估价的；可察觉的		
+apprehension	[?pri′hen??n]	n.理解,忧惧,逮捕			
+architect	    [`a:kitekt]	n.建筑师；创造者			
+arctic	    [`a:ktik]	a.北极的	n.北极		
+array	    [?′rei]	vt.装扮	n.队列；排列		
+articulate	    [a:′tikjulit]	a.发音清晰的，听得懂的	
+assimilate    [?′simileit]	vt.使同化,吸收,比较	
+assumption   [?′sΛmp??n]	n.采取；假定；傲慢		
+assurance	    [?′?u?r?ns]	n.保证；财产转让书		
+astronomy   [?s′tr?n?mi]	n.天文学			
+athlete	    [`?θli:t]	n.运动员；田径运动员			
+attendance    [?′tend?ns]	n.到场；出席人数			
+attendant  	[?′tend?nt]	n.侍者；护理人员			
+augment	    [?:g′ment,`?:gm?nt]	vt.vi.n.增加,增大	
+authoritative  [?:′θ?rit?tiv]	a.权威的,有权威的,命令式的
+authorize	    [`?:θ?raiz]	vt.授权与,批准,委托代替
+automation	[?:t?′mei??n]	n.自动，自动化			
+avail  	    [?′veil]	vt.有益于	n.效用						
+bachelor	    [`b?t??l?]	n.未婚男子；学士			
+baffle	    [`b?fl]	vt.使挫折	n.迷惑		
+bald  	    [b?:ld]	a.秃头的；无毛的			
+ballet	    [`b?lei,]	n.芭蕾舞；舞剧			
+ban	        [b?n]	n.禁令	vt.禁止,取缔	
+bankrupt	    [`b??kr?pt]	a.破产的	vt.使破产		
+barely	[`b??li]	ad.仅仅，勉强			
+barren	   [`b?r?n]	a.贫瘠的；不妊的			
+basement	   [`beism?nt] n.地下室；地窖；底层		
+bearing	   [`b??ri?]	n.支承；忍受；方位			
+beforehand  [bi′f?:h?nd]	ad.预先；提前地			
+betray	   [bi′trei]	vt.背叛；辜负；泄漏			
+bewilder	   [bi′wild?]	vt.迷惑，把…弄糊涂			
+biography   [bai′?gr?fi]	n.传记				
+blaze	   [bleiz]	n.火；闪光	vi.燃烧		
+bleak	   [bli:k]	a.萧瑟的,苍白的,荒凉的			
+bless	   [bles]	vt.为…祝福			
+blossom	   [`bl?s?m]	n.花，开花	vi.开花			
+boom	   [bu:m]	vi.n.急速发展,繁荣,隆隆响		
+boost	   [bu:st]	vt.n.推进,支援,吹捧			
+boycott	   [`b?ik?t]	vt.&n.联合抵制	
+breakdown  [`breikdaun]	n.崩溃，倒塌；失败		
+brutal	   [`bru:tl]	a.残忍的,野蛮的,不讲理的		
+bud	       [bΛd]	n.芽，萌芽；蓓蕾			
+budget	   [`bΛd?it]	n.预算，预算案			
+buffer	   [`bΛf?]	n.缓冲,缓冲区	vt.缓冲		
+bug	       [bΛg]	n.虫子；臭虫					
+burial	   [`beri?l]	n.安葬，埋葬，埋藏			
+bypass	   [`bai-pa:s]	n.旁通管	vt.绕过				
+
+captive	   [`k?ptiv]	n.俘虏，被监禁的人			
+cartoon	   [ka:′tu:n]	n.漫画，动画片			
+carve	   [ka:v]	vt.刻，雕刻；切开			
+casualty	   [`k??ju?lti]	n.伤亡,受害者			
+category	   [`k?tig?ri]	n.种类，类目；范畴			
+caution	   [`k?:??n]	n.小心；告诫	vt.警告		
+cautious	   [`k?:??s]	a.小心的，谨慎的				
+cellar	   [`sel?]	n.地窑，地下室			
+cereal	   [`si?ri?l]	n.谷类，五谷，禾谷			
+certainty	   [`s?:tnti]	n.确实性，确信，确实			
+certify	   [`s?:tifai]	vt.vi.证明,保证			
+chaos	   [`kei?s]	n.大混乱,混沌			
+characterize  [`k?rikt?raiz]	vt.表示…的特性			
+charity	   [`t??riti]	n.施舍；慈善事业			
+charm	   [t?a:m]	n.魅力；妩媚	vi.迷人		
+chat	       [t??t]	n.闲谈	vi.闲谈,聊天		
+cherish	   [`t?eri?]	vt.珍爱；怀有(感情)			
+chip	       [t?ip]	n.薄片，碎片			
+circulation	[s?:kju′lei??n]	n.循环；(货币等)流通		
+cite	       [sait]	vt.引用，引证；举例			
+civilian	   [si′vilj?n]	n.平民	a.平民的		
+clarity	   [`kl?riti]	n.清楚,透明			
+clash	   [kl??]	n.碰撞声；抵触，冲突			
+classic	   [`kl?sik]	n.名著	a.不朽的		
+clearance    [`kli?r?ns]	n.清除,解除,间隙			
+client	   [`klai?nt]	n.顾客；诉讼委托人			
+cling	       [kli?]	vi.粘住；依附；坚持			
+clinic	   [klinik]	n.诊所，医务室；会诊			
+clip	       [klip]	vt.剪；剪辑报刊			
+coherent	   [k?u′hi?r?nt]	a.粘着的；紧凑的			
+coincide	   [k?uin′said]	vi.相符合；相巧合		
+coincidence	[k?uin′sid?ns]	n.巧合,同时发生			
+collaboration	[k?l?b?′rei??n]	n.合作,通敌			
+collide	    [k?′laid]	vi.碰撞；冲突，抵触			
+colonial	    [k?′l?uni?l]	a.殖民地的，殖民的
+combat	    [`k?mb?t]	vt.跟…战斗	vi.格斗		
+comedy	    [`k?midi]	n.喜剧；喜剧场面			
+commemorate	[k?′mem?reit]	vt.纪念			
+commence	[k?′mens]	vt.开始	vi.获得学位		
+commend	    [k?′mend]	vt.称赞，表扬；推荐		
+commentary	[`k?m?nt?ri]	n.注释,评论,批评			
+commitment	[k?′mitm?nt]	n.委托,承担义务,赞助		
+commodity	[k?′m?diti]	n.日用品，商品，物品		
+commonplace	[`k?m?npleis]	a.平凡的	n.平常话			
+commute	    [k?′mju:t]	vt.交换,兑换,	经常来往
+compact	    [`k?mp?kt,k?m′p?kt]	a.紧密的	vt.使紧凑
+comparable	[`k?mp?r?bl]	a.可比较的；类似的		
+compatible	[k?m′p?t?bl]	a.一致的；兼容制的		
+compensate	[`k?mpenseit]	vt.&vi.补偿，赔偿			
+competence	[`k?mpit?ns]	n.胜任,资格,能力			
+competitive	[k?m′petitiv]	a.竞争的，比赛的			
+compile	    [k?m′pail]	vt.编辑，编制，搜集		
+complement	[`k?mplim?nt]	vt.补充	n.补足(物)		
+complication	[k?mpli′kei??n]	n.复杂，混乱；并发症	
+compliment	[`k?mplim?nt]	n.问候	vt.赞美，祝贺	
+comply	    [k?m′plai]	vi.应允，遵照，照做		
+composite	[`k?mp?zit]	a.合成的	n.合成物		
+compulsory	[k?m′pΛls?ri]	a.强迫的，义务的			
+conceive	    [k?n′si:v]	vt.设想，以为；怀孕			
+conception	[k?n′sep??n]	n.概念，观念，想法		
+concession	[k?n′se??n]	n.让步，迁就			
+confidential	[k?nfi′den??l]	a.秘密的；亲信的			
+configuration	[k?nfigju′rei??n]	n.结构,配置,形态		
+conform	    [k?n′f?:m]	vt.使遵守	vi.一致		
+confront	    [k?n′frΛnt]	vt.使面对；使对证		
+confusion	    [k?n′fju:??n]	n.混乱；骚乱；混淆		
+conscientious	[k?n?i′en??s]	a.本着良心的,负责的		
+consecutive	[k?n′sekjutiv]	a.连续,联贯的,始的		
+consensus	[k?n′sens?s]	n.一致			
+consequent	[`k?nsikw?nt]	a.作为结果的；必然的		
+conserve	    [k?n′s?:v]	vt.保存,保全	n.蜜饯,果酱		
+consolidate	[k?n′s?lideit]	vt.巩固	vi.合并		
+conspicuous	[k?n′spikju?s]	a.显著的,显眼的,出众的	
+constituent	[k?n′stitju?nt]	a.形成的	n.选民		
+constrain	    [k?n′strein]	vt.强迫,勉强,驱使			
+consultant	[k?n′sΛlt?nt]	n.顾问,商议者			
+consumer	    [k?n′sju:m?]	n.消费者，用户			
+contemplate  [`k?ntempleit]vt.注视,沉思,打算vi.冥思苦想
+contempt	    [k?n′tempt]	n.轻蔑；藐视			
+contend	    [k?n′tend]	vi.竞争	vt.坚决主张		
+context	    [`k?ntekst]	n.上下文；来龙去脉		
+contribution	[k?ntri′bju:??n]	n.捐助,捐助之物,贡献	
+contrive	    [k?n′traiv]	vt.vi.发明,设计,图谋		
+controversial	[k?ntr?′v?:??l]	a.争论的,有争议的，被议论的
+controversy	[`k?ntr?v?:si]	n.争论，辩论，争吵		
+converge	    [k?n′v?:d?]	vi.聚合,集中于一点		
+conviction	[k?n′vik??n]	n.确信，信服，深信		
+cooperative	[k?u′?p?r?tiv]	a.合作的	n.合作社		
+cordial	    [`k?:dj?l]	a.真诚的，诚恳的			
+corporate	    [`k?:p?rit]	n.组织			
+correlate	    [`k?rileit]	n.互相关联的事物			
+correspondence	[k?ris′p?nd?ns]	n.通信；符合；对应
+correspondent 	[k?ris′p?nd?nt]	n.通信者；通讯员	
+cosmic	    [`k?zmik]	a.宇宙的；广大无边的			
+costume	    [`k?stju:m]	n.装束,服装			
+couch	    [kaut?]	n.睡椅，长沙发椅			
+counsel	    [`kauns?l]	n.商议；忠告；律师		
+courtesy	    [`k?:tisi]	n.礼貌，谦恭，请安			
+cradle	    [`kreidl]	n.摇篮，发源地			
+creation	    [kri′ei??n]	n.创造,创作物,发明		
+criterion	    [krai′ti?ri?n]	n.标准，准则，尺度		
+crucial	    [`kru:?i?l]	a.决定性的,重要的,严厉的	
+cumulative	[`kjumjuleitiv]	a.累积的				
+currency	    [`kΛr?nsi]	n.通货；通用；市价		
+curriculum	[k?′rikjul?m]	n.课程			
+customary	[`kΛst?m?ri]	a.通常的；照惯例的	
+damn	  [d?m]	vt.诅咒	n.诅咒；丝毫		
+dazzle	  [`d?zl]	vt.&vi.炫耀；迷惑			
+deadly	  [`dedli]	a.致命的，死一般的			
+decent	  [`di:snt]	a.正派的；体面的			
+decisive	  [di′saisiv]	a.决定性的；果断的			
+decline	  [di′klain]	vt.下倾；偏斜；衰退			
+dedicate	  [`dedikeit]	vt.奉献；献身			
+deem	  [di:m]	vt.认为，相信	vi.想		
+deficiency  [di′fi??nsi]	n.缺乏；不足之数			
+defy	      [di′fai]	vt.向…挑战；蔑视			
+degenerate  [di′d?en?reit]a.堕落的vi.vt.(使)变质,(使)退化
+deliberate  [di′lib?rit] a.深思熟虑的；审慎的			
+denial	  [di′nai?l]	n.否定；拒绝相信			
+denote	  [di′n?ut]	vt.指示，意味着			
+denounce  [di′nauns]	vt.谴责，声讨；告发
+dentist	  [`dentist]	n.牙科医生			
+depression  [di′pre??n]	n.消沉；不景气萧条期		
+deprive	  [di′praiv]	vt.夺去；使(人)失去			
+descendant  [di′send?nt]	n.子孙，后裔；弟子		
+descent	  [di′sent]	n.下降；出身；斜坡			
+designate   [`dezigneit]	vt.指出，指示；指定
+despise	  [dis′paiz]	vt.鄙视，蔑视			
+destined	  [`destind]	a.(由神、命运)	预定的,注定的
+destiny	  [`destini]	n.命运,定数			
+destructive  [dis′trΛktiv]	a.破坏(性)的，危害的	
+detective	  [di′tektiv]	n.侦探，密探			
+deteriorate  [di′ti?ri?reit]	vt.vi.(使)恶化			
+diagnose	  [`dai?gn?uz]	vt.诊断(疾病)			
+diet	      [`dai?t]	n.饮食，食物			
+differentiate	[dif?′ren?ieit]	vt.vi.区别,区分			
+diffuse	  [di′fju:z]	vt.vi.散播,传播a.散开的,弥漫的	
+dignity	  [`digniti]	a.尊贵；(举止)庄严			
+diminish	  [di′mini?]	vt.减少，减小，递减			
+dine	      [dain]	vi.吃饭	vt.宴请		
+diploma	  [di′pl?um?]	n.毕业文凭，学位证书			
+diplomatic  [dipl?′m?tik]	a.外交的；有策略的		
+disable	  [dis′eibl]	vt.使无能，使伤残			
+disastrous  [di′za:str?s]	a.灾难性的；悲惨的		
+discern	  [di′s?:n]	vt.看出，辨出；辨别			
+disclose	  [dis′kl?uz]	vt.揭开，揭发；透露			
+discount 	  [`diskaunt]	n.折扣；打折扣卖	
+discrete	  [di′skrit]	a.不连续的,离散的			
+discriminate	[dis′krimineit]	vt.vi.区别对待，歧视	
+displace	  [dis′pleis]	vt.移置；取代；置换			
+disposition	[disp?′zi??n]	n.性情,处置,处理,布置		
+disregard	  [`disri′ga:d]	vt.不管，不顾	n.不管	
+disrupt	  [dis′rΛpt]	a.分裂的,分散的	vt.使分裂,瓦解
+distract	  [dis′tr?kt]	vt.分散 (心思)；打扰			
+disturbance  [dis′t?:b?ns]	n.动乱；干扰；侵犯		
+diversion	  [dai′v?:??n]	n.转移；改道；娱乐			
+divert	  [dai′v?:t]	vt.使转向	vi.转移		
+dizzy	  [`dizi]	a.头晕眼花的，眩晕的			
+domain	  [d?′mein]	n.领域,领土,产业,范围			
+dominant	  [`d?min?nt]	a.统治的	n.主因		
+dominate	  [`d?mineit]	vt.统治，支配，控制			
+donate	  [d?u′neit]	vt.vi.捐赠			
+doom	  [du:m]	n.命运，毁灭	vt.注定		
+doubtless  	[`dautlis]	ad.无疑地；很可能			
+dreadful	  [`dredful]	a.可怕的；令人敬畏的			
+drought    [draut]	n.旱灾，干旱			
+dual	      [`dju:?l]	a.双重的,双的	n.双数		
+dwell	  [dwel]	n.居住	vi.凝思，细想
+ecology	   [i(:)′k?l?d?i]	n.生态学；个体生态学
+economics   [i:k?′n?miks]	n.经济学；经济	
+edit	       [`edit]	vt.编辑，编纂；校订		
+elderly	   [`eld?li]	a.过了中年的,稍老的			
+electrician	[ilek′tri??n]	n.电工，电气技师			
+electronics	[ilek′tr?niks]	n.电子学			
+elegant	   [`elig?nt]	a.(举止、服饰)雅致的			
+elevate	   [`eliveit]	vt.提高(思想)；抬高			
+eligible	   [`elid??bl]	n.有资格者,合格者a.有资格的	
+elite	       [ei′li:t]	n.精华,精锐,中坚分子			
+embed	   [im′bed]	vt.使插入,使嵌入			
+embody	   [im′b?di]	vt.体现；包含，收录			
+enclosure	   [in′kl?u??]	n.围绕；围场，围栏			
+endeavor	   [in′d?v?]	vi.&n.努力，尽力			
+endow	   [in′dau]	vt.资助；赋予，授予			
+endurance   [in′dju?r?ns]	n.耐久力，持久力			
+energetic	   [en?′d?etik]	a.积极的；精力旺盛的		
+enhance	   [in′ha:ns]	vt.提高，增加；夸张		
+enlighten	   [in′laitn]	vt.启发，开导；启蒙			
+enrich	   [in′rit?]	vt.使富裕；使丰富			
+enroll	   [in′r?ul]	vt.登记，招收vi.参军			
+ensue	   [in′sju:]	vt.追求	vi.跟着发生,继起		
+enterprise	   [`ent?praiz]	n.企业，事业心			
+entertainment	[ent?′teinm?nt]	n.娱乐,款待,娱乐表演	
+enthusiastic	[inθju:zi′?stik]	a.热情的，热心的		
+equator	   [i′kweit?]	n.赤道，天球赤道			
+essence	   [`esns]	n.本质，本体；精华			
+eternal	   [i′t?:nl]	n.永久的；不朽的			
+ethics	   [`eθiks]	n.道德规范			
+ethnic	   [`?θnik]	a.民族特有的			
+evoke	   [i′v?uk]	vt.唤起,引起			
+exceptional	[ik′sep??nl]	a.例外的；优越的			
+exclusive	   [iks′klu:siv]	a.排外的；孤傲的			
+execution	   [eksi′kju:??n]	n.实行，执行；处死刑	
+exemplify   [ig′z?mplifai]	vt.举例证明(解释)			
+exempt	   [ig′zempt]	a.免除的	vt.使免除,豁免
+expel	   [iks′pel]	vt.驱逐，开除；排出			
+expend	   [iks′pend]	vt.花费,消耗,支出			
+expenditure  [iks′pendit?]	n.(时间等)支出，消费		
+expertise	   [eksp?′ti:z]	n.专家的意见,专门技术		
+exposition	[eksp?′zi??n]	n.说明，解释；陈列		
+exquisite	   [`ekskwizit]	a.精致的,细腻的,敏锐的
+extinct	   [iks′ti?kt]	a.绝种的；熄灭了的			
+extinguish   [iks′ti?gwi?]	vt.熄灭，扑灭；消灭		
+extract	   [iks′tr?kt,]	vt.取出；榨取	n.摘录	
+extravagant	[iks′tr?vig?nt]	a.奢侈的；过度的			
+fake	       [feik]	n.假货，膺品	a.假的		
+fantastic	   [f?n′t?stik]	a.空想的；奇异的			
+fantasy	   [`f?nt?si]	n.幻想,白日梦			
+fascinate    [`f?sineit]	vt.迷住	vi.迷人		
+fax	       [f?ks]	n.传真	vt.传真		
+feast	       [fi:st]	n.盛宴，筵席；节日			
+federation	[fed?′rei??n]	n.联邦,联合,联盟			
+feeble	   [`fi:bl]	a.虚弱的；微弱的			
+fellowship	[`fel?u?ip]	n.伙伴关系；联谊会		
+feminine	   [`feminin]	a.女性的；女子气的			
+finite	   [`fainait]	a.有限的；有尽的			
+fist	       [fist]	n.拳(头)			
+fitting	   [`fiti?]	a.适当的	n.配合		
+fixture	   [`fikst??]	n.固定；定期存款			
+flatter	   [`fl?t?]	vt.奉承，阿谀，谄媚			
+flaw	       [fl?:]	n.缺点，瑕疵；裂隙			
+flush	   [flΛ?]	vi.奔流；(脸)发红			
+flutter	   [`flΛt?]	vi.(鸟)振翼；飘动				
+foremost	   [`f?:m?ust]	a.最初的；第一流的			
+foresee	   [f?:′si:]	vt.预见，预知，看穿			
+format	   [`f?:m?t]	n.格式	v.格式化		
+formulate	   [`f?:mjuleit]	vt.用公式表示			
+forthcoming	[f?:θ′kΛmi?]	a.即将到来的；现有的		
+forum	   [`f?:r?m]	n.论坛，讨论会			
+fossil	   [`f?sl]	n.化石	a.化石的		
+foster	   [`f?st?]	vt.养育，抚养；培养			
+fragile	   [`fr?d?ail]	a.脆的；体质弱的			
+frustrate	   [frΛs′treit]	vt.挫败；使无效			
+furious	   [`fju?ri?s]	a.狂怒的；狂暴的			
+fuss	       [fΛs]	n.忙乱；吹捧	vi.忙乱		
+galaxy	   [`g?l?ksi]	n.银河,星系,一群显赫的人物	
+gallery	   [`g?l?ri]	n.长廊，游廊；画廊			
+gamble	   [`g?mbl]	n.赌博	vt.冒…的险		
+garbage	   [`ga:bid?]	n.垃圾，污物，废料			
+gasp	       [ga:sp]	vi.气喘，喘息			
+gear	       [gi?]	n.齿轮，传动装置			
+gene	       [d?i:n]	n.基因,因子			
+generalize	[`d?en?r?laiz]	vt.概括出vi.形成概念		
+genetic	   [d??′netik]	a.遗传的,起源的			
+geology	    [d?i′?l?d?i]	n.地质学；(某地)地质		
+given	   [`givn]	a.赠予的,沉溺的,约定的		
+glare       [gl??]	vi.瞪眼	n.瞪眼		
+glide	       [glaid]	vi.滑动；消逝	n.滑行		
+global	   [`gl?ub?l]	a.球面的；全球的			
+gloomy	   [`glu:mi]	a.黑暗的；令人沮丧的			
+gorgeous	   [`g?:d??s]	a.绚丽的；极好的			
+gossip	   [`g?sip]	n.闲谈；碎嘴子；漫笔			
+grab	       [gr?b]	vt.&vi.攫取，抓取			
+gracious	   [`grei??s]	a.谦和的			
+grief	       [gri:f]	n.悲哀，悲痛，悲伤			
+grieve	   [gri:v]	vt.使悲痛	vi.悲痛		
+grim	       [grim]	a.冷酷无情的，严厉的			
+groan	   [gr?un]	vi.哼，呻吟	n.呻吟		
+guideline	   [`gaidlain]	n.指导路线,方针,指标			
+guy	       [gai]	n.家伙,支索	vt.用支索撑住,取笑	
+handbook	   [`h?ndbuk]	n.手册，便览，指南		
+handicap    [`h?ndik?p]	vt.妨碍，使不利			
+hasty	   [`heisti]	a.急速的；仓促的			
+hatch	   [h?t?]	vt.舱盖，舱口；短门			
+haul	       [h?:l]	vt.拖曳；拖运			
+haunt	   [h?:nt]	vt.常去	vi.经常出没		
+heal	       [hi:l]	vt.治愈；使和解			
+hearing	   [`hi?ri?]	n.听,听觉			
+heave	   [hi:v]	vt.(用力地)举起；抛			
+heighten	   [haitn]	vt.加高，提高；增加			
+heir	       [??]	n.后嗣，继承人			
+hemisphere	[`hemisfi?]	n.半球；半球地图			
+henceforth	[`hens′f?:θ]	ad.今后，从今以后		
+heritage	   [`heritid?]	n.遗产,继承物,传统			
+highlight	   [`hailait]	n.突出,精彩场面vt.加亮,使显著	
+hinder	   [`hind?,]	a.后面的	vt.vi.阻碍,打扰		
+historian	   [his′t?:ri?n]	n.历史学家；编史家	
+historic	   [his′t?rik]	a.历史的；历史性的			
+hitherto	   [`hi??′tu:]	ad.迄今，到目前为止			
+homogeneous	[h?m?′d?i:nj?s]	a.同类的；均匀的		
+horrible	   [`h?r?bl]	a.可怕的,极可憎的,极可厌的	
+hospitality	[h?spi′t?liti]	n.好客，殷勤；宜人		
+hostage	   [`h?stid?]	n.人质，抵押品			
+hug	       [hΛg]	vt.搂	n.紧紧拥抱		
+humanity	   [hju:′m?niti]	n.人类；人性，人情		
+humidity	   [hju:′miditi]	n.湿气；湿度			
+hurricane	    [`hΛrik?n]	n.飓风，十二级风			
+hypothesis	[hai′p?θisi:z]	n.假设；前提			
+
+identification	[aidentifi′kei??n]	n.认出，鉴定；身份证	
+identity	    [ai′dentiti]n.相同,身分,恒等式,特性,一致
+ideology	    [aidi′?l?d?i]	n.意识形态,思想体系	
+idiom	   [`idi?m]	n.习语，成语			
+ignorance   [`ign?r?ns]	n.无知，无学，愚昧			
+illuminate	[i′′lju:mineit]	vt.照明，照亮；阐明
+illusion	    [i′lju:??n]	n.幻想；错觉；假象			
+imaginative	[i′m?d??n?tiv]	a.想象的,虚构的		
+immerse	    [i′m?:s]	vt.沉浸；给…施洗礼			
+immune	    [i′mjun]	a.免疫的,免除的,不受影响的
+imperative  [im′per?tiv]	n.命令,a.命令式的,急需的,强制的
+implement  [`implim?nt]	n.工具vt.实现,使生效,执行	
+implicit	  [im′plisit]	a.暗示的,盲从的,绝对的,固有的	
+impulse	   [`impΛls]	n.冲动，推动，脉冲			
+incentive	   [in′sentiv]	n.动机	a.激励的		
+incidence	   [`insid?ns]	n.发生，影响；入射			
+incidentally	[insi′dent?li]	ad.附带地；顺便提及		
+inclusive	   [in′klu:siv]	a.包围住的；包括的
+incorporate	[in′k?:p?reit]	vt.结合，合并，收编		
+incredible	   [in′kred?bl]	a.难以置信的，惊人的	
+indefinite	   [in′definit]	a.不明确的；不定的
+indicative   	[in′dik?tiv]	a.指示的；陈述的			
+indignant	   [in′dign?nt]	a.愤慨的，义愤的			
+indignation	[indig′nei??n]	n.愤怒，愤慨，义愤		
+inference	   [`inf?r?ns]	n.推论；推断的结果			
+inflation	   [in′flei??n]	n.通货膨胀，物价飞涨			
+inflict	   [in′flikt]	vt.施以,加害,使承受			
+ingenious	   [in′d?i:nj?s]	a.机灵的；精巧制成的	
+inhabit	   [in′h?bit]	vt.居住于，栖息于
+inhibit	   [in′hibit]	vt.禁止,抑制			
+initiate	   [i′ni?ieit]	    vt.开始，创始；启蒙	
+initiative	   [i′ni?i?tiv]	a.创始的	n.第一步		
+inland	   [`inl?nd,]	/	a.国内的；内地的		
+innovation	[in?u′vei??n]	n.创新，改革，新设施		
+innumerable	[i′nju:m?r?bl]	a.无数的，数不清的		
+insane	   [in′sein]	a.患精神病的,不理智的			
+insight	   [`insait]	n.洞察力，洞悉，见识			
+inspiration	[insp?′rei??n]	n.灵感；妙想；鼓舞		
+instantaneous	[inst?n′teinj?s]	a.瞬间的，即刻的			
+instrumental	[instru′mentl]	a.仪器的；有帮助的	
+insulate	    [`insjuleit]	vt.使绝缘，使绝热
+intact	    [in′t?kt]	a.原封不动的,完整的		
+integral	    [`intigr?l]	a.组成的；整的			
+integrate	    [`intigreit]	vt.使结合，使并入		
+integrity	    [in′tegriti]	n.诚实，正直			
+intellect	    [`intilekt]	n.理智，智力，才智			
+intelligible	[in′t?lid??bl]	a.可理解	易理解的,明了的	
+intensify	    [in′tensifai]	vt.vi.加强，强化			
+interact	    [int?′r?kt]	vi.相互作用			
+intervene	    [int?′vi:n]	vi.干涉，干预；播进			
+intimidate	[in′timideit]	vt.威胁,恐吓,胁迫			
+intrinsic	    [in′trinsik]	a.本质的,原有的,真正的
+intuition	    [intju′i??n]	n.直觉,直觉的知识
+invaluable	[in′v?lju?bl]	a.无价的,价值无法衡量的	
+invariably	[in′v??ri?bli]	ad.不变地，永恒地		
+invert	    [in′v?:t,]	vt.使反转,使颠倒,使转化
+irony	    [`ai?r?ni]	n.反讽,讽剌,讽剌之事			
+irrespective	[iris′pektiv]	a.不考虑的，不顾的		
+irrigation	    [iri′gei??n]	n.灌溉；冲洗法			
+irritate	    [`iriteit]	vt.激怒；引起不愉快			
+ivory	    [`aiv?ri]	n.象牙；牙质；乳白色	
+		
+jail	      [d?eil]	n.监狱	vi.监禁		
+journalist	  [`d??:n?list]	n.记者，新闻工作者			
+justification [d?Λstifi′kei??n]	n.辩护,证明是正当的,释罪	
+kidney	  [`kidni]	n.肾，腰子；性格			
+knit	      [nit]	vt.把…编结	vi.编织	
+	
+lamb	      [l?m]	n.羔羊，小羊；羔羊肉			
+landscape	  [`l?ndskeip]	n.风景，景色，景致
+latent	  [`leit?nt]	a.存在但看不见的			
+lease	      [li:s]	n.租约，契约，租契			
+legend	  [`led??nd]	n.传说，传奇			
+legislation	[led?is′lei??n]	n.立法；法规			
+legitimate   	[li′d?itimit]	a.合法的,正当的	vt.使合法
+liability	  [lai?′biliti]	n.责任；倾向；债务			
+likelihood	[`laiklihud]	n.可能(性)			
+linear	  [`lini?]	a.线的；长度的			
+literacy	  [`lit?r?si]	n.读写能力,识字			
+literal	  [`lit?r?l]	a.文字(上)的；字面的			
+locality	  [l?u′k?liti]	n.位置，地点，发生地			
+longitude	  [`l?nd?itju:d]	n.经线，经度			
+lunar	  [`lju:n?]	a.月亮的	
+		
+magnify	  [`m?gnifai]	vt.放大，扩大			
+magnitude  [`m?gnitju:d]	n.大小；重大；星等	
+mall	      [m?:l]	n.大型购物中心			
+manipulate  [m?′nipjuleit]	vt.操作；控制，手持		
+massive	   [`m?siv]	a.粗大的；大而重的			
+masterpiece	[`ma:st?pi:s]	n.杰作，名著			
+mechanism	[`mek?niz?m]	n.机械装置；机制			
+media	   [`mi:di?]	n.媒体						
+melody	   [`mel?di]	n.旋律，曲调；歌曲			
+membership	[`memb??ip]	n.成员资格；会员人数		
+merge	   [m?:d?]	vt.使合并,使并为一体			
+mess	   [mes]	vt.弄脏，弄乱，搞糟			
+messenger	[`mesind??]	n.送信者，信使			
+metallic	   [mi′t?lik]	a.金属的	n.金属粒子		
+migrate	   [mai′greit]	vi.迁移，移居			
+minimal	   [`miniml]	a.最小的,极微的,最小限度的	
+minimize	   [`minimaiz]	vt.使减到最小			
+misery	   [`miz?ri]	n.痛苦，悲惨，不幸			
+misfortune	[mis′f?:t??n]	n.不幸，灾祸，灾难		
+mobilize	   [`m?ubilaiz]	vt.动员	vi.动员起来		
+mock	   [m?k]	n.嘲弄	vt.嘲弄，挖苦		
+momentum	[mou′ment?m]	n.动力,要素			
+monster	   [`m?nst?]	n.怪物；畸形的动植物			
+morality	   [m?′r?liti]	n.道德，美德，品行			
+mortal	   [`m?:tl]	a.终有一死的；致死的			
+mortgage	   [`m?:gid?]	n.抵押	vt.抵押		
+motel	   [m?u′tel]	n.汽车游客旅馆			
+mourn	   [m?:n]	vi.哀痛，哀悼			
+muddy	   [`mΛdi]	a.多泥的，泥泞的			
+multitude	   [`mΛltitju:d]	n.大批，大群；大量		
+muscular	   [`mΛskjul?]	a.肌肉发达的，强健的
+mutter	   [`mΛt?]	vi.轻声低语；抱怨			
+myth	   [miθ]	n.神话,虚构的事,虚构的人
+
+naive	   [na:′i:v]	a.天真的,纯真的,朴素的	
+narrative	   [`n?r?tiv]	n.叙述,故事	a.叙述的,叙事的
+nasty	   [`na:sti]	a.龌龊的；淫猥的			
+necessitate	[ni′sesiteit]	vt.迫使,使成为必需,需要	
+negligible	    [`neglid??bl]	a.微不足道的			
+negotiate	    [ni′g?u?ieit]	vi.谈判，交涉，议定
+nightmare	[`naitm??]	n.恶梦；经常的恐惧		
+nominal	    [`n?minl]	a.名义上的,名字的	n.名词性词		
+nominate	    [`n?mineit]	vt.提名，推荐；任命	
+nonetheless	[`nΛn??′les]	adv.尽管如此,然而			
+norm	    [n?:m]	n.标准，规范；平均数			
+notable	    [`n?ut?bl]	n.值得注意的；著名的			
+notation	    [nou′tei??n]	n.记号法,表示法,注释		
+notify	    [`n?utifai]	vt.通知，告知；报告	
+notion	    [`n?u??n]	n.概念，意念；看法			
+notwithstanding	[n?twiθ′st?ndi?]	prep.尽管，虽然	
+nourish	    [`nΛri?]	vt.提供养分，养育			
+novelty	    [`n?v?lti]	n.新颖；新奇的事物			
+numerical   	[nju′merik?l]	a.数字的，数值的			
+nutrition	    [nju:′tri??n]	n.营养,营养学			
+
+oath	        [?uθ]	n.誓言，誓约，宣誓			
+obedient	    [?′bi:dj?nt]	n.服从的，顺从的			
+obligation	[?bli′gei??n]	n.义务，职责，责任		
+obscure	    [?b′skju?]	a.阴暗的；蒙昧的			
+odor	        [`?ud?]	n.气味,名声,味			
+offence	    [?′fens]	n.犯罪，犯规；冒犯			
+offensive	    [?′fensiv]	a.冒犯的；进攻的			
+offset	    [`?:fset]	n.分支，抵销	vt.抵销		
+offspring	    [`?(:)fspri?]	n.儿女，子孙，后代		
+oppress	    [?′pres]	vt.压迫，压制；压抑			
+optimism	    [`?ptimizm]	n.乐观，乐观主义			
+optimum	    [`?ptimi?m]	n.最适条件，最适度		
+option	    [`?p??n]	n.选择，取舍			
+oriental	    [?ri′entl]	a.东方的；东方国家的			
+orientation	[?:rien′tei??n]	n.向东；定位；方向		
+originate	    [?′rid?ineit]	vi.发源	vt.首创		
+ornament	    [`?:n?m?nt,]	n.装饰物	vt.装修		
+outbreak	    [`autbreik]	n.(战争、愤怒等)爆发	
+overflow	    [?uv?′fl?u]	vt.从…中溢出			
+overhear	    [?uv?′hi?]	vt.偶然听到；偷听			
+overthrow	[,?uv?′θr?u]	vt.推翻	n.推翻，瓦解		
+overwhelm	[?uv?′hwelm]	vt.压倒，使不知所措		
+oxide	    [`?ksaid]	n.氧化物			
+
+panic	    [`p?nik]	n.恐慌，惊慌			
+paradise	    [`p?r?dais]	n.伊甸乐园；天堂			
+paradox	  [`p?r?d?ks]	n.似非而是的论点,自相矛盾的话
+paralyze	    [`p?r?laiz]	vt.使瘫痪,使麻痹			
+parameter   	[p?′r?mit?]	n.参(变)数；参量			
+participant	[pa:′tisip?nt]	n.参加者	a.有份的		
+partition	    [pa:′ti??n]	n.分开，分割；融墙	
+pastime	    [`pa:staim]	n.消遣，娱乐			
+patriotic	    [p?tri′?tik]	a.爱国的			
+pave	        [peiv]	vt.铺，筑(路等)			
+pearl      	[p?:l]	n.珍珠；珍珠母			
+peel	        [pi:l]	vt.剥(皮)，削(皮)			
+penalty	    [`penlti]	n.处罚，刑罚；罚款			
+pension	    [`pen??n]	n.抚恤金，年金			
+perception	[p?′sep??n]	n.感觉；概念；理解力		
+perfection	[p?′fek??n]	n.尽善尽美；无比精确		
+perfume	    [`p?:fju:m,]				
+periodic	    [`pi?ri′?dik]	n.周期的；一定时期的		
+periodical  	[pi?ri′?dik?l]	n.期刊，杂志			
+perish	    [`peri?]	vi.死亡，夭折；枯萎			
+permeate	    [`p?:miet]	vt.弥漫,渗透,充满	vi.透入		
+permissible	[p?′mis?bl]	a.可允许的			
+perpetual	    [p?′pet?u?l]	a.永久的；四季开花的		
+persistent	    [p?(:)′sist?nt]	a.固执的,坚持的,持续的	
+pest	        [pest]	n.害虫；害人虫			
+petition	    [pi′ti??n]	n.请愿	vt.向…请愿		
+petty	        [`peti]	a.细小的；器量小的			
+physiological	[fizi?′l?d?ik?l]	a.生理学的,生理学上的	
+plaster	    [`pla:st?]	n.灰泥；硬膏；熟石膏			
+plausible	    [`pl?:z?bl]	a.似乎真实的,似乎合理的
+plead	    [pli:d]	vt.为…辩护	vi.抗辩		
+pledge	    [pled?]	n.誓言	vt.使发誓		
+poke	        [p?uk]	vt.戳，刺；伸(头等)			
+polar	    [`p?ul?]	a.南(北)极的；极性的			
+poll	        [p?ul]	n.投票	vi.投票		
+ponder	    [`p?nd?]	vt.考虑	vi.沉思		
+porch	    [p?:t?]	n.门廊，入口处			
+pore	        [p?:]	n.毛孔，气孔，细孔			
+pose	        [p?uz]	vi.假装，摆姿势	n.姿势		
+poster	    [`p?ust?]	n.海报,招贴,脚夫			
+postulate	    [`p?stjuleit]	vt.要求，假定，假设	
+practicable	[`pr?ktik?bl]	a.能实行的；适用的		
+prayer	    [`pr??]	n.祈祷，祈求			
+preach	    [pri:t?]	vt.说教，布道；鼓吹			
+precede	    [pri(:)′si:d]	vt.先于…	vi.领先		
+preclude	    [pri′klu:d]	vt.预先排除,预防,阻止,妨碍	
+predecessor	[`pri:dises?]	n.前辈，前任者			
+predominant	[pri′d?min?nt]	a.占优势的；主要的		
+pregnant	    [`pregn?nt]	a.怀孕的；意义深长的
+premature	[pri:m?′tju?]	a.早熟,过早的	n.早产儿		
+premise	    [`premis,]	n.前提,假设，房产			
+prescription	[pris′krip??n]	n.药方，处方的药			
+presentation	[prezen′tei??n]	n.介绍；赠送；呈现	
+preside	    [pri′zaid]	vi.主持；主奏			
+prestige	    [pres′ti:?]	n.威望，威信，声望			
+presumably	[pri′zju:m?bli]	ad.推测起来，大概		
+presume	    [pri′zju:m]	vt.假定，假设，揣测		
+prevalent	    [`prev?l?nt]	a.流行的；盛行的			
+prey	        [prei]	vi.猎物	vi.捕获		
+priority	    [prai′?riti]	n.先，前；优先，重点
+privacy	    [`praiv?si]	n.隐私,隐居,秘密			
+probe	    [pr?ub]	n.探针	vt.用探针探查		
+proceeding	[pr?′si:di?]	n.程序，行动，事项		
+proclaim	    [pr?′kleim]	vt.宣告，宣布；表明
+productive	[pr?′dΛktiv]	a.生产的；出产…的		
+productivity	[pr?dΛk′tiviti]	n.生产率；多产			
+proficiency	[pr?′fi??nsi]	n.熟练，精通			
+profile	    [`pr?ufail]	n.侧面,轮廓,人物素描,传略
+profitable   	[`pr?fit?bl]	a.有利的；有益的			
+profound	    [pr?′faund]	a.深刻的；渊博的			
+prolong	    [pr?′l??]	vt.延长，拉长，拖延			
+promising	[`pr?misi?]	a.有希望的；有前途的		
+propagate	    [`pr?p?geit]	vt.繁殖；传播，普及
+propel	    [pr?′pel]	vt.推进，推动			
+proposition	[pr?p?′zi??n]	n.命题，主题；提议		
+prospective	[pr?s′pektiv]	a.有希望的,预期	将来的	
+provocative	[pr?′v?k?tiv]	a.挑衅的,刺激的,挑逗的	
+provoke	    [pr?′v?uk]	vt.激怒,惹起,驱使			
+publicity	    [pΛb′lisiti]	n.公开,名声,宣传			
+purify	    [`pju?rifai]	vt.提纯，精炼(金属)
+purity	    [`pju?riti]	n.纯净；纯洁；纯度			
+pursuit	    [p?′sju:t]	n.追赶；追求；事务			
+
+qualification	[kw?lifi′kei??n]	n.资格；限制条件		
+qualitative	[`kw?lit?tiv]	a.质的；定性的			
+quantify	    [`kw?ntifai]	vt.确定…的数量			
+quantitative	[`kw?ntit?tiv]	a.量的；定量的			
+quarterly	    [`kw?:t?li]	a.季度的	ad.季度地		
+quest	    [kwest]	vt.寻找	vi.追求		
+questionnaire	[kwest??′n??]	n.调查表，征求意见表		
+
+radiate	   [`reidieit]	vi.发射光线；辐射			
+radical	   [`r?dik?l]	a.基本的；激进的			
+rage	       [reid?]	n.(一阵)狂怒，盛怒			
+rally	       [`r?li]	n.&vt.&vi.(重新)集合			
+random	   [`r?nd?m]	n.随机	a.随机的		
+rating	   [`reiti?]	n.等级,评定结果，收视(听)率
+readily	   [`redili]	ad.乐意地；无困难地			
+realistic	   [ri?′listik]	a.现实的；现实主义的			
+reap	       [ri:p]	vt.&vi.收割，收获			
+rebellion	   [ri′belj?n]	n.造反；叛乱；反抗			
+recession	   [ri′se??n]	n.(经济)衰退,不景气			
+recipient	   [ri′sipi?nt]	n.接受者，接收者			
+reciprocal   [ri′sipr?k?l]	a.相互的；互利的			
+recite	   [ri′sait]	vt.&vi.背诵，朗诵			
+reckless	   [`reklis]	a.粗心大意的；鲁莽的			
+reckon	   [`rek?n]	vi.数，算帐	vt.认为		
+reclaim	   [ri′kleim]	vt.开垦，开拓；回收
+reconcile	   [`rek?nsail]	vt.使和好；调停			
+recreation	   [rekri′ei??n]	n.消遣，娱乐活动			
+recruit	   [ri′kru:t]	vi.征募(新兵),招收	n.新兵,新成员
+rectangular  [rek′t??gjul?]	a.矩形的,成直角的			
+rectify	   [`rektifai]	vt.纠正；调整；精馏			
+recur	   [ri′k?:]	vi.复发,重现,再发生			
+recycle	   [`ri:′saikl]	vt.使再循环,再利用,再制redundant	   [ri′dΛnd?nt]	a.多余的,过多的,冗长的
+refrain	   [ri′frein]	vi.抑制，制止，忍住			
+refreshment  [ri′fre?m?nt]	n.茶点，点心，便餐		
+refugee	   [refju:′d?i:]	n.难民，流亡者			
+refute	   [ri′fju:t]	vt.驳斥，反驳，驳倒			
+regime	   [rei′?i:m]	n.政体，政权；制度			
+rejoice	   [ri′d??is]	vi.欣喜，高兴			
+reliance	   [ri′lai?ns]	n.信任，信赖，信心			
+remainder   [ri′meind?]	n.剩余(物)；余数			
+remnant	   [`remn?nt]	n.残留部分，遗迹	a.剩余,残余的	
+repay	   [ri:′pei]	vt.&vi.偿还，报答			
+repel	       [ri′pel]	vt.拒绝；使厌恶			
+replacement	 [ri′pleism?nt]	n.归还；取代；置换		
+representation	 [reprizen′tei??n]	n.描写；陈述；代表	
+reproach	    [ri′pr?ut?]	vt.&n.责备，指责			
+republican	[ri′pΛblik?n]	a.共和国的			
+resemblance	[ri′zembl?ns]	n.相似，相似性			
+resent	    [ri′zent]	vt.对…不满，怨恨			
+reservation	[rez?′vei??n]	n.保留；预定，预订		
+reside	    [ri′zaid]	vi.居住，驻扎；属于			
+residential	[rezi′den??l]	a.住宅的,与居住有关的		
+resultant	    [ri′zΛlt?nt]	a.作为结果而发生的
+retail	    [`ri:teil]	n.零售	a.零售的		
+retention	    [ri′ten??n]	n.保留,保有,保持			
+revelation	    [revi′lei??n]	n.揭露,泄露,启示,展示
+revenge	    [ri′vend?]	vt.替…报仇	n.报仇		
+revive	    [ri′vaiv]	vt.&vi.苏醒；复兴			
+revolve	    [ri′v?lv]	vt.&vi.(使)旋转			
+rigorous	    [`rig?r?s]	a.(性格等)严峻的			
+rim	        [rim]	n.边；边缘，(眼镜)框			
+rip	        [rip]	vi.撕啐，扯破，划破			
+ripple	    [`ripl]	n.涟漪，细浪，波纹			
+ritual	    [`ritju?l]	n.仪式	a.仪式的,例行公事的
+romance	    [r?u′m?ns]	n.传奇；浪漫文学			
+rot	        [r?t]	vt.烂，腐坏	n.腐烂		
+royalty	    [`r?i?lti]	n.皇家，王族，皇族			
+rupture	    [`rΛpt??]	n.破裂,决裂	vt.(使)破裂		
+
+safeguard	    [`seifga:d]	n.保护措施；护照			
+sanction	    [`s??k??n]	n.制裁，批准			
+saturate	    [`s?t??reit]	vt.使浸透,使充满,使饱和	
+sauce	    [s?:s]	n.调味汁，酱汁			
+savage	    [`s?vid?]	a.未开发的,野蛮,残暴的n.野蛮人
+scandal	  [`sk?ndl]	n.丑事，丑闻；耻辱			
+scared	  [sk??d]	adj.受惊吓的			
+sceptical	  [`skeptik?l]	a.怀疑的			
+scorn	  [sk?:n]	n.轻蔑；嘲笑	vt.轻蔑		
+scrap	  [skr?p]	n.碎片；废料	vt.废弃		
+script	  [skript]	n.手迹,手稿,剧本,字母表			
+seam	  [si:m]	n.缝口；接缝；骨缝			
+sector	  [`sekt?]	n.部门,部分,扇形			
+seemingly   [`si:mi?li]	ad.表面上，外表上		
+segment	  [`segm?nt]	n.切片，部分；段，节			
+segregate   [`segrigeit]a.分离的,被隔离的vt.使分离,使隔
+seminar	  [`semina:]	n.研究会,讨论发表会			
+sensation	  [sen′sei??n]	n.感觉，知觉；轰动			
+sentiment	  [`sentim?nt]	n.感情；情操；情绪			
+sexual	  [`seksju?l]	a.性的,性别的			
+shatter	  [`??t?]	vt.粉碎，破碎；毁坏			
+sheer	  [?i?]	a.纯粹的；全然的；陡峭的			
+shipment	  [`?ipm?nt]	n.装货；装载的货物			
+shutter	  [`?Λt?]	n.百叶窗；(相机)快门			
+signify	  [`signifai]	vt.表示，意味着			
+simulate	  [`simjuleit]	vt.模拟,假装,模仿			
+simultaneous	[sim?l′teinj?s]	a.同时的，同时存在的		
+skip	      [skip]	vi.跳；跳绳；略过			
+slack	  [sl?k]	a.松弛的;萧条的;懈怠的；	vt.使松弛
+slap	      [sl?p]	vt.掴，拍	n.巴掌，拍		
+slim	      [slim]	a.细长的；微小的			
+slogan	  [`sl?ug?n]	n.标语，口号			
+slum	      [slΛm]	n.贫民窟，贫民区			
+smash	  [sm??]	vt.打碎，打破，粉碎			
+snack	  [sn?k]	n.快餐，小吃			
+snap	      [sn?p]	vt.猛咬，突然折断			
+snatch	  [sn?t?]	n.抢夺,攫取,片段	vt.夺取,攫取	
+soar	      [s?:]	vi.猛增，高耸，高飞,翱翔			
+sober	  [`s?ub?]	a.清醒的；适度的			
+sociology  [s?usi′?l?d?i]	n.社会学			
+software	  [`s?ftw??]	n.(计算机的)软件			
+solidarity	  [s?li′d?riti]	n.团结；休戚相关			
+solitary	  [`s?lit?ri]	n.独居者	a.孤独的,独居的		
+solo	      [`s?ul?u]	n.独唱，独奏；独唱曲			
+spacious	  [`spei??s]	a.广阔的，广大的			
+sparkle	  [`spa:kl]	vi.发火花	vt.使闪耀		
+spatial	  [`spei??l]	a.空间的，占据空间的			
+speciality	  [spe?i′?liti]	n.专业，特长；特产			
+species	  [`spi:?i:z]	n.种，物种；种类			
+specifically	[spe′sifik?li]	ad.特定的,明确的			
+specification	[spesifi′kei??n]	n.载明，详述；规格	
+spectacle	   [`spekt?kl]	n.场面；景象，奇观			
+spectacular  [spek′t?kjul?]a.公开展示的,惊人的n.展览物
+spectator	   [spek′teit?]	n.参观者，观众			
+speculate	   [`spekjuleit]	vi.思索，沉思；投机
+spiral	   [`spai?r?l]	a.螺旋(形)的，盘旋的			
+splash	   [spl??]	vt.溅泼	vi.泼水		
+spokesman	[`sp?uksm?n]	n.发言人，代言人			
+spontaneous	[sp?n′teinj?s]	a.自发的；本能的			
+spouse	   [spauz]	n.配偶,夫妻			
+spy	       [spai]	n.间谍，特务	vt.侦察		
+stabilize	   [`steibilaiz]vt.使稳定,使坚固	vi.稳定,安定	
+stagger	   [`st?g?]	vi.蹒跚	vt.使摇晃		
+staircase	   [`st??keis]	n.楼梯，楼梯间			
+startle	   [`sta:tl]	vt.使大吃一惊	n.吃惊		
+stationary   [`stei?n?ri]	a.固定的,静止不动的			
+statistics	   [st?′tistiks]	n.统计，统计数字			
+stereo	   [`sti?ri?u]	n.立体声	a.立体声的		
+stereotype	 [sti?ri?taip]	n.陈腔滥调,老套			
+stimulus	     [`stimjul?s]	n.刺激,激励,刺激品
+straightforward	[streit′f?:w?d]	a.老实的	ad.坦率地	
+strategic	     [str?′ti:d?ik]	a.战略的,战略上的			
+streamline	 [stri:mlain]	n.流线；流线型			
+stride	     [straid]	vi.大踏步走	n.大步		
+striking	     [`straiki?]	a.显著的，惊人的			
+strive	     [straiv]	vi.努力，奋斗，力求			
+stubborn	     [`stΛb?n]	a.顽固的；顽强的			
+studio	     [`stju:di?u]	n.工作室；播音室			
+sturdy	     [`st?:di]	a.坚定的；牢固的			
+subjective	 [sΛb′d?ektiv]	a.主观的,个人的			
+subordinate	 [s?′b?:d?nit]	a.下级的，辅助的			
+subscribe	     [s?b′skraib]	vi.订购，认购；预订		
+subsidiary	 [s?b′sidj?ri]	a.辅助的，补充的			
+subsidy	     [`sΛbsidi]	n.补助金,津贴			
+subtle	     [`sΛbtl]	a.微妙的；精巧的			
+successor	     [s?k′ses?]	n.继承人，继任者			
+sue	         [sju:]	vt.控告,请愿			
+suicide	     [`sjuisaid]	n.&vi.&vt.自杀			
+suitcase	     [`sju:tkeis]	n.小提箱，衣箱			
+summit	     [`sΛmit]	n.顶点，最高点；极度
+summon	     [`sΛm?n]	vt.召唤；鼓起(勇气)
+superb	     [sju:′p?:b]	a.壮丽的；超等的			
+superiority	 [sju:p?ri′?riti]	n.优越(性)，优势	
+supersonic	 [`sju:p?′s?nik]	a.超声的，超声速的
+supervise 	 [`sju:p?vaiz]	vt.&vi.监督，监视			
+supplementary  [sΛpli′ment?ri]	a.补足,补充,追加的	
+suppress	     [s?′pres]	vt.镇压；抑制；隐瞒			
+surge	     [s?:d?]	n.vt.激增,奔放,汹涌,澎湃
+surgeon	     [`s?:d??n]	n.外科医师；军医			
+surpass	     [s?:′pa:s]	vt.超过，超越，胜过
+surplus	     [`s?:pl?s]	n.过剩，剩余(物资)
+survival	     [s?′vaiv?l]	n.幸存，残存；幸存者
+susceptible	 [s?′sept?bl]	a.易受影响的,易感动的		
+suspension	 [s?s′pen??n]	n.悬挂,暂停,中止			
+suspicious	 [s?s′pi??s]	a.可疑的；猜疑的			
+symmetry	     [`simitri]	n.对称(性)，匀称			
+symphony	 [`simf?ni]	n.交响乐；交响乐团
+symptom	     [`simpt?m]	n.症状，征候，征兆	
+synthesis	     [`sinθisis]	n.合成；综合，综合物		
+
+tablet	     [`t?blit]	n.碑，匾；药片			
+tackle	     [`t?kl]	vt.解决，对付	n.用具		
+tactics	     [`t?ktiks]	n.策略；战术，兵法
+tangle	     [`t??gl]	vt.使缠结，使纠缠			
+tar	         [ta:]	n.柏油，焦油			
+tariff         [`t?rif]n.关税,价格表,收费表vt.课以关税	
+temperament	 [`temp?r?m?nt]	n.气质,性质,性情		
+tenant	     [`ten?nt]	n.承租人，房客，佃户			
+tentative	     [`tent?tiv]	n.试验,假设a.试验性,暂时的
+terminate      [`t?:mineit]	vt.&vi.停止，终止			
+terrific	     [t?′rifik]	a.可怕的；极大的			
+terrify	     [`terifai]	vt.使恐怖，使惊吓			
+testify	     [`testifai]	v.证明，证实，作证
+testimony  	 [`testim?ni]	n.证言,证据,声明			
+thanksgiving	 [`θ??ksgivi?]	n.感恩节			
+theft	         [θeft]	n.盗窃，偷窃(行为)			
+theme	     [θi:m]	n.题目；词干；主旋律			
+therapy	     [`θer?pi]	n.治疗			
+thereafter	     [???′ra:ft?]	ad.此后，以后			
+thesis	     [`θi:sis]	n.论题，论点；论文	
+thirst	     [θ?:st]	n.渴，口渴；渴望			
+thorn	     [θ?:n]	n.刺，棘；荆棘；蒺藜			
+thrill	         [θril]	vt.&vi.(使)激动			
+timber	     [`timb?]	n.木材，木料			
+timely	     [`taimli]	a.及时的；适时的			
+timid	  [`timid]	a.胆怯的；羞怯的			
+tolerant	  [`t?l?r?nt]	a.容忍的；有耐力的			
+toss	      [t?s]	vi.翻来复去			
+tragic	  [`tr?d?ik]	a.悲剧性的，悲惨的			
+trait	      [treit]	n.显著特点，特性			
+transaction	[tr?n′z?k??n]	n.处理；交易；和解		
+transcend	  [tr?n′send]	vt.超越,胜过			
+transient	  [`tr?nzi?nt]a.短暂的,转瞬即逝的,临时的,暂住
+transit	  [`tr?nsit]	n.运输	a.中转的，过境的		
+transition	  [tr?n′si??n]	n.转变，变迁；过渡			
+transplant	  [tr?ns′pla:nt]	vt.&vi.移植，移种			
+traverse	  [`tr?v?:s]	vt.横越，横切，横断			
+tribute	  [`tribju:t]	n.贡物；献礼，贡献			
+trifle      [`traifl]	n.小事，琐事；少许			
+trigger	  [`trig?]	n.扳机	vt.触发，引起		
+triple	  [`tripl]	a.三倍的,三方的	vt.使增至三倍	
+trivial	  [`trivi?l]	a.琐碎的；平常的			
+tuck	      [tΛk]	vt.折短，卷起；塞			
+tuition	  [tju:′i??n]	n.教，教诲；学费			
+tumble	  [`tΛmbl]	vi.摔倒，跌倒；打滚			
+turnover	  [`t?:nouv?]	n.人员调整，营业额，成交量	
+tutor	      [`tju:t?]	vt.教，指导			
+
+ultraviolet	[`Λltr?′vai?lit]	a.紫外的n.紫外线辐射		
+unanimous	[ju(:)′n?nim?s]	a.(全体)一致的		
+underestimate	[Λnd?r′estimeit]	vt.低估，看轻		
+underlying	[Λnd?′laii?]	a.在下的,含蓄的,潜在的	
+undermine   [Λnd?′main]vt.渐渐破坏,暗中破坏,侵蚀基础
+unemployment	   [`Λnim′pl?im?nt]	n.失业；失业人数
+unfold	    [Λn′f?uld]	vt.展开	vi.呈现		
+unify	    [`ju:nifai]	vt.统一,使成一体			
+update	    [Λp′deit]	vt.更新,使现代化			
+upgrade	    [`Λp′greid]	vt.使升级,提升			
+uphold	    [Λp′h?uld]	vt.举起；支撑；赞成		
+
+validity	    [v?′liditi]	n.有效，效力；正确			
+vegetation	[ved?i′tei??n]	n.植物,草木			
+verbal	    [`v?:b?l]	a.言辞的,文字的,口头的,动词的	
+verge	    [v?:d?]	n.边缘，边界，界限			
+versatile	    [`v?:s?tail]	a.多方面的；通用的		
+versus	    [`v?:s?s]	prep.(比赛等中)对			
+vicinity	    [vi′siniti]	n.邻近；附近地区			
+vicious	    [`vi??s]	a.邪恶的；恶性的			
+violate	    [`vai?leit]	vt.违犯，违背；侵犯			
+virtual	    [`v?:tju?l]	a.实际上的，实质上的			
+virus	    [`vai?r?s]	n.病毒			
+vocal	    [`v?uk?l]	a.直言不讳的，嗓音的,有声的
+vocational	[v?u′kei??nl]	a.职业的			
+void	        [v?id]	a.空的；无效的			
+volunteer	    [v?l?n′ti?]	n.志愿者	vt.志愿		
+
+wallet	    [`w?lit]	n.钱包，皮夹子			
+ward      	[w?:d]	n.病房，病室；监房			
+warehouse	[`w??haus]	n.仓库，货栈			
+warfare	    [`w?:f??]	n.战争，战争状态			
+weary	    [`wi?ri]	a.疲倦的	vt.使疲乏		
+whereas	    [w??r′?z]	conj.而，却，反之			
+whereby	    [w??′bai]	ad.靠什么；靠那个			
+withhold	    [wi?′h?uld]	vt.拒绝，不给，使停止，阻挡
+wrinkle	    [`ri?kl]	n.皱纹	vt.使起皱纹		
+
+yell	        [jel]	vi.叫喊			
+youngster	    [`jΛ?st?]	n.儿童，少年，年轻人
