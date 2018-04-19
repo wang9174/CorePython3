@@ -1,3 +1,4 @@
+#接触并认识GUI编程中的窗口、控件、事件、布局、偏函数等等
 from functools import partial as pto
 from tkinter import Tk,Button,X
 from tkinter.messagebox import showinfo,showerror,showwarning

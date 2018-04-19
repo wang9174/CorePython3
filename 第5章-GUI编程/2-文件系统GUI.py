@@ -1,3 +1,4 @@
+#创建一个文件浏览器GUI并实现功能
 import os
 from time import sleep
 from tkinter import *
